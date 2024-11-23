@@ -47,7 +47,7 @@ mission(better_get_used_to_it).
 
 % отношения и свойства между персонажами
 
-% ��ерсонажи, работающие на дона сальери
+% персонажи, работающие на дона сальери
 works_for(tommy, don_salieri). 
 works_for(paulie, don_salieri).
 works_for(sam, don_salieri).   
